@@ -1,0 +1,22 @@
+/* li{
+    list-style-type: square;
+    max-width: 200px;
+    margin: 8px;
+    padding: 8px auto;
+    background: rgb(186, 83, 83);
+    border: 1px rgb(219, 160, 160);
+} */
+body{
+    background: rgb(121, 92, 92);
+}
+form{
+    background: white;
+    max-width: 200px;
+    margin: 40px auto;
+    padding: 10px;
+}
+input{
+    display: block;
+    padding: 10px auto;
+    padding: 4px;
+}
